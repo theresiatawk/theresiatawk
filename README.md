@@ -1,12 +1,13 @@
-# Hi there, I'm Theresia Tawk [theresiatawk][linkedin] 👋 
+# Hi there, I'm Theresia Tawk 👋 
 
-## I'm a smart Student and Developer to be !!
+## I'm a smart 2nd year Student at Lebanese American University and Developer to be !!
 
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Develop my skills to become a full stacker
 - ⚡ Fun fact: Once I enter the Gym or the Dance Hall I don't leave until they kick me out 🤣
+- 📫 How to reach me theresia.tawk@lau.edu
 
 ### Connect with me:
 
