@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Develop my skills to become a full stacker
-- ⚡ Fun fact: Once I enter the Gym or the dance hall I don't leave until they kick me out 🤣
+- ⚡ Fun fact: Once I enter the Gym or the Dance Hall I don't leave until they kick me out 🤣
 
 ### Connect with me:
 
@@ -29,6 +29,13 @@
 <br />
 <br />
 
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
 <details>
   <summary>:zap: GitHub Stats</summary>
 
