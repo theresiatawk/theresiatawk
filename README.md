@@ -1,6 +1,6 @@
 # Hi there, I'm Theresia Tawk 👋 
 
-## I'm a idiot Senior Student at Lebanese American University and Developer to be !!
+## I'm Senior Student at Lebanese American University and Developer to be !!
 
 
 - 🌱 I’m currently learning everything 🤣
