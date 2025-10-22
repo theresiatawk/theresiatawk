@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2024 Goals: Develop my skills to become a full stacker
 - ⚡ Fun fact: Once I enter the Gym or the Dance Hall I don't leave until they kick me out 🤣
 - 📫 How to reach me tawktheresia@gmail.com
 
